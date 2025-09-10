@@ -1,0 +1,7 @@
+[10-Sep-2025 18:07:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/rudsstore/public_html/v7/reseller/reseller_login.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/rudsstore/public_html/v7/reseller/reseller_login.php on line 92
+[11-Sep-2025 01:13:06 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/rudsstore/public_html/v7/includes/auth.php on line 2
+[11-Sep-2025 01:14:45 Asia/Jakarta] PHP Parse error:  Unclosed '{' on line 2 in /home/rudsstore/public_html/v7/includes/auth.php on line 83
+[11-Sep-2025 01:16:35 Asia/Jakarta] PHP Notice:  Only variables should be passed by reference in /home/rudsstore/public_html/v7/includes/auth.php on line 32
